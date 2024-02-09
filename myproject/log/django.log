@@ -1,0 +1,5 @@
+INFO 2024-02-09 17:45:45,444 autoreload 12704 12576 Watching for file changes with StatReloader
+INFO 2024-02-09 17:45:48,117 views 12704 15308 Opened home page
+INFO 2024-02-09 17:45:48,135 basehttp 12704 15308 "GET / HTTP/1.1" 200 186
+INFO 2024-02-09 17:45:51,951 views 12704 15308 Opened page about
+INFO 2024-02-09 17:45:51,967 basehttp 12704 15308 "GET /about/ HTTP/1.1" 200 170
