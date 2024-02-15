@@ -3,3 +3,25 @@ INFO 2024-02-09 17:45:48,117 views 12704 15308 Opened home page
 INFO 2024-02-09 17:45:48,135 basehttp 12704 15308 "GET / HTTP/1.1" 200 186
 INFO 2024-02-09 17:45:51,951 views 12704 15308 Opened page about
 INFO 2024-02-09 17:45:51,967 basehttp 12704 15308 "GET /about/ HTTP/1.1" 200 170
+INFO 2024-02-13 13:30:33,518 autoreload 8900 12336 Watching for file changes with StatReloader
+INFO 2024-02-13 13:32:23,675 autoreload 8236 4240 Watching for file changes with StatReloader
+INFO 2024-02-13 13:34:17,606 autoreload 8236 4240 C:\Users\Есения\Desktop\programming\Django\myproject\second_app\models.py changed, reloading.
+INFO 2024-02-13 13:34:21,706 autoreload 848 9736 Watching for file changes with StatReloader
+INFO 2024-02-13 13:34:55,221 autoreload 848 9736 C:\Users\Есения\Desktop\programming\Django\myproject\second_app\models.py changed, reloading.
+INFO 2024-02-13 13:34:57,934 autoreload 10664 10608 Watching for file changes with StatReloader
+INFO 2024-02-13 13:35:05,014 autoreload 10664 10608 C:\Users\Есения\Desktop\programming\Django\myproject\second_app\models.py changed, reloading.
+INFO 2024-02-13 13:35:07,285 autoreload 11860 12020 Watching for file changes with StatReloader
+INFO 2024-02-13 13:35:49,993 autoreload 11860 12020 C:\Users\Есения\Desktop\programming\Django\myproject\second_app\models.py changed, reloading.
+INFO 2024-02-13 13:35:51,264 autoreload 996 12660 Watching for file changes with StatReloader
+INFO 2024-02-13 13:35:58,880 autoreload 840 3492 Watching for file changes with StatReloader
+INFO 2024-02-13 13:36:03,246 views 840 9140 Opened home page
+INFO 2024-02-13 13:36:03,252 basehttp 840 9140 "GET / HTTP/1.1" 200 186
+WARNING 2024-02-13 13:36:05,833 log 840 9140 Not Found: /favicon.ico
+WARNING 2024-02-13 13:36:05,846 basehttp 840 9140 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-02-13 13:36:08,984 views 840 832 Opened home page
+INFO 2024-02-13 13:36:08,987 basehttp 840 832 "GET / HTTP/1.1" 200 186
+INFO 2024-02-13 13:36:12,641 basehttp 840 9460 "GET /about HTTP/1.1" 301 0
+INFO 2024-02-13 13:36:12,677 views 840 8916 Opened page about
+INFO 2024-02-13 13:36:12,678 basehttp 840 8916 "GET /about/ HTTP/1.1" 200 170
+INFO 2024-02-13 13:39:24,944 autoreload 13080 9804 Watching for file changes with StatReloader
+INFO 2024-02-13 13:40:15,989 autoreload 6200 616 Watching for file changes with StatReloader
